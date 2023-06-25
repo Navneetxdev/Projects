@@ -47,7 +47,7 @@ h2{
     padding: 60px 0;
     padding-right: 10%;
     margin: 0;
-    border: 5px solid #8d54f5;
+    /* border: 5px solid #8d54f5; */
     background-image: url(https://zoro.to/images/zoro-bg.jpg);
 }
 
@@ -64,7 +64,7 @@ main-page-content{
     padding:20px;
 }
 .main-page{
-    border: 5px solid #73AD21;
+    /* border: 5px solid #73AD21; */
     height: 450px;
     width: 100%;
     left: 0px;
@@ -75,7 +75,7 @@ main-page-content{
     display: flex;
     align-items: center;
     left: 7%;
-    border: 5px solid #73AD21;
+    /* border: 5px solid #73AD21; */
     padding-right: 10%;
     height: 4.6em;
     width: 60em;
@@ -104,7 +104,7 @@ main-page-content{
 }
 
 .tops{
-    border: 5px solid #8d54f5;
+    /* border: 5px solid #8d54f5; */
     height: 10em;
     width: 30em;
     margin-top: 10px;
@@ -115,7 +115,7 @@ main-page-content{
 }
 
 .bar{
-    border: 5px solid #8d54f5;
+    /* border: 5px solid #8d54f5; */
     width: 60%;
     left: 20%;
     height: 60px;
@@ -148,7 +148,7 @@ main-page-content{
     width: 60%;
     height: 100em;
     padding: 10px;
-    border: 5px solid #8d54f5;
+    /* border: 5px solid #8d54f5; */
 }
 
 .ShareContainer{
@@ -180,7 +180,7 @@ main-page-content{
 .msg-container{
     height: 200px;
     width: 360px;
-    border: 5px solid #8d54f5;
+    /* border: 5px solid #8d54f5; */
     position: absolute;
     top: 12.5em;
     right: 1em;
